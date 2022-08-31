@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "button": "libs/button",
+    "button-e2e": "apps/button-e2e",
+    "fluid-ui": "apps/fluid-ui",
+    "fluid-ui-e2e": "apps/fluid-ui-e2e"
+  }
+}
